@@ -70,5 +70,3 @@ npm run dev
 - Use `docker compose up --build --no-cache` to force a clean rebuild.
 - Make sure Docker and Docker Compose are installed.
 - Laravel runs in a separate container environment via Sail and is not included in the general `docker compose` workflow.
-
-## API Testing
