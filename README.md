@@ -1,5 +1,7 @@
 # cowris-assessment
 
+![Image](https://github.com/user-attachments/assets/3529e50a-9736-4bc0-bbf5-a738d1f335a6)
+
 # Multi-Backend Dockerized Setup with Vue Frontend
 
 This project contains a Vue.js frontend that can connect to three different backend services: NestJS, Express.js, and Laravel. Each backend is containerized and runs independently. The purpose of this setup is to demonstrate flexibility in backend integration using a shared frontend.
@@ -11,6 +13,10 @@ This project contains a Vue.js frontend that can connect to three different back
   - **NestJS** – Runs on port 8005 (Dockerized)
   - **Express.js** – Runs on port 3000 (Dockerized)
   - **Laravel** – Runs on port 80 (using Laravel Sail)
+
+![Image](https://github.com/user-attachments/assets/d79dc70d-2552-4aa4-ab72-d5337570cd27)
+
+![Image](https://github.com/user-attachments/assets/19cbd62a-3a72-4af3-a68b-e98e97c8b792)
 
 ## How to Run
 
