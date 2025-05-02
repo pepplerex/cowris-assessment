@@ -66,9 +66,3 @@ npm run dev
 - Laravel runs in a separate container environment via Sail and is not included in the general `docker compose` workflow.
 
 ## API Testing
-
-Verify each backend with tools like curl or Postman:
-
-curl http://localhost:8005/api # NestJS
-curl http://localhost:3000/api # Express.js
-curl http://localhost:8000/api # Laravel
