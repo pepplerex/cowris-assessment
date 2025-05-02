@@ -34,8 +34,6 @@ The Express app will be available at:
 
 http://localhost:3000
 
-Ensure the appropriate Docker service is defined in `docker-compose.yml`.
-
 ### Laravel (via Sail, port 80)
 
 From the `laravel` directory, run:
@@ -48,7 +46,7 @@ composer install
 
 Then the app will be accessible at:
 
-http://localhost
+http://localhost:8000
 
 ## Frontend Setup
 
